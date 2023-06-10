@@ -11,4 +11,3 @@ Hi 👋! I'm hecksmosis, a spanish full-stack developer who likes coding in thei
 
 ### My stats
 [![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hecksmosis&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![My stats](https://github-readme-stats.vercel.app/api?username=hecksmosis&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
